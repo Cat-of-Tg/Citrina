@@ -28,7 +28,7 @@ i can convert image to pdf""",reply_to_message_id = message.message_id ,  reply_
                 [
                     InlineKeyboardButton("UPDATES " ,url="https://t.me/team_lad") ],
                  [InlineKeyboardButton("MASTER", url="https://t.me/cat_of_tg"),
-                   InlineKeyboardButton("SUPPORT", url="https://t.me/Teamladz_bothub) ]       ]        ) )
+                   InlineKeyboardButton("SUPPORT", url="https://t.me/Teamladz_bothub") ]       ]        ) )
 
 
 
